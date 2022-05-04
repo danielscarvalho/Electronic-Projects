@@ -12,3 +12,5 @@ Electronic Projects for Computer Engineering students
   - Speaker Building 201 by Ray Alde
   - How to Build Speaker Enclosures by Alexis Badmaieff
 - Noise (signal) machine, digital or analog
+- CNC (Controle Numérico Computadorizado)
+- Plotter
