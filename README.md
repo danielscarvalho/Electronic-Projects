@@ -26,3 +26,5 @@ Electronic Projects for Computer Engineering students
 - Electronics Self-Teaching Guide, Kybett, Boysen
 - The Art of Electronics, Horowitz, Hill
 - Standard Handbook for Electrical Engineers, Santoso, Beaty
+- Getting Started with Arduino, Banzi
+- Getting Started with Raspberry Pi, Richardson, Wallace
