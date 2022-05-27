@@ -8,9 +8,10 @@ Electronic Projects for Computer Engineering students
 - Build an Raspberry Pi project
 - Hack a standard home router with https://dd-wrt.com/ and make a better and safer network
 - Build your own PC from scratch (Expensive project!!)
-- Create your own speakers: 
+- Create your own bluetooth stereo speakers: 
   - Speaker Building 201 by Ray Alde
   - How to Build Speaker Enclosures by Alexis Badmaieff
+- Create your own bluetooth valve amplifiers
 - Noise (signal) machine, digital or analog
 - CNC (Controle Numérico Computadorizado)
 - Plotter
