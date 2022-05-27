@@ -23,9 +23,10 @@ Electronic Projects for Computer Engineering students
 
 # Bibliography
 
-- Electronics Self-Teaching Guide, Kybett, Boysen
-- The Art of Electronics, Horowitz, Hill
-- Standard Handbook for Electrical Engineers, Santoso, Beaty
-- Getting Started with Arduino, Banzi
-- Getting Started with Raspberry Pi, Richardson, Wallace
-- Encyclopedia of Electronic Components, Platt
+- Electronics Self-Teaching Guide by Kybett, Boysen
+- The Art of Electronics, Horowitz by Hill
+- Standard Handbook for Electrical Engineers by Santoso, Beaty
+- Getting Started with Arduino by Banzi
+- Getting Started with Raspberry Pi by Richardson, Wallace
+- Encyclopedia of Electronic Components by Platt
+- Making Things Talk by Tom Igoe
