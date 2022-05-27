@@ -24,5 +24,5 @@ Electronic Projects for Computer Engineering students
 # Biblioghy
 
 - Electronics Self-Teaching Guide, Kybett, Boysen
-- The Art of Electronics,
+- The Art of Electronics, Horowitz, Hill
 - Standard Handbook for Electrical Engineers, Santoso, Beaty
