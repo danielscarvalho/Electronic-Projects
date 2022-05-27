@@ -21,7 +21,7 @@ Electronic Projects for Computer Engineering students
 - Create your own digital assitent
 - Create a digital art sculture
 
-# Biblioghy
+# Bibliography
 
 - Electronics Self-Teaching Guide, Kybett, Boysen
 - The Art of Electronics, Horowitz, Hill
