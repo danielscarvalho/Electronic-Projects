@@ -17,3 +17,5 @@ Electronic Projects for Computer Engineering students
 - Plotter
 - Create your own Arduino
 - Create a programmable smart watch
+- Create your own digital badge with display for events
+- Create your own digital assitent
