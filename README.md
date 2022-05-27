@@ -28,3 +28,4 @@ Electronic Projects for Computer Engineering students
 - Standard Handbook for Electrical Engineers, Santoso, Beaty
 - Getting Started with Arduino, Banzi
 - Getting Started with Raspberry Pi, Richardson, Wallace
+- Encyclopedia of Electronic Components, Platt
