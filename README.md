@@ -30,3 +30,4 @@ Electronic Projects for Computer Engineering students
 - Getting Started with Raspberry Pi by Richardson, Wallace
 - Encyclopedia of Electronic Components by Platt
 - Making Things Talk by Tom Igoe
+- Practical Electronics for Inventors by Scherz
