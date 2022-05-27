@@ -19,3 +19,10 @@ Electronic Projects for Computer Engineering students
 - Create a programmable smart watch
 - Create your own digital badge with display for events
 - Create your own digital assitent
+- Create a digital art sculture
+
+# Biblioghy
+
+- Electronics Self-Teaching Guide, Kybett, Boysen
+- The Art of Electronics,
+- Standard Handbook for Electrical Engineers, Santoso, Beaty
