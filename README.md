@@ -14,3 +14,5 @@ Electronic Projects for Computer Engineering students
 - Noise (signal) machine, digital or analog
 - CNC (Controle Numérico Computadorizado)
 - Plotter
+- Create your own Arduino
+- Create a programmable smart watch
