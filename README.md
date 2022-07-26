@@ -5,17 +5,20 @@ Electronic Projects for Computer Engineering students
 - Reporpouse an old electronic device - https://hackaday.com/2022/07/26/hackaday-prize-2022-digital-dice-towers-built-in-beautiful-retro-cases/
 - Build a MIDI controller instrument
 - Upgrade an old computer (Hack)
+- Build an ESP32 (or similar) project with sensors
 - Build an Arduino project with sensor and send the data to the cloud and make a dashboard to visualize it
 - Build an Raspberry Pi project
+- Extend electronic projects (hack)
+- Hack an musical instrument making it digital
 - Hack a standard home router with https://dd-wrt.com/ and make a better and safer network
 - Build your own PC from scratch (Expensive project!!)
 - Create your own bluetooth stereo speakers: 
   - Speaker Building 201 by Ray Alde
   - How to Build Speaker Enclosures by Alexis Badmaieff
 - Create your own bluetooth valve amplifiers
-- Noise (signal) machine, digital or analog
-- CNC (Controle Numérico Computadorizado)
-- Plotter
+- Create a noise (signal) machine, digital or analog
+- Create a CNC (Controle Numérico Computadorizado)
+- Create a Plotter
 - Create your own Arduino
 - Create a programmable smart watch
 - Create your own digital badge with display for events
