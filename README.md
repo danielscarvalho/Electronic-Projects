@@ -2,6 +2,7 @@
 Electronic Projects for Computer Engineering students
 
 - Hack and old sterio system and add bluetooth and digital tecnology on it
+- Reporpouse an old electronic device - https://hackaday.com/2022/07/26/hackaday-prize-2022-digital-dice-towers-built-in-beautiful-retro-cases/
 - Build a MIDI controller instrument
 - Upgrade an old computer (Hack)
 - Build an Arduino project with sensor and send the data to the cloud and make a dashboard to visualize it
