@@ -27,7 +27,7 @@ Electronic Projects for Computer Engineering students
 - Create a digital art sculture
 - Teach electronics - prepare some experiments (practical classes) for education and learning
 - Add speak capability to an analog toy
-- Add sensors and response (áudio or visual) to an analog toy
+- Add sensors and response (audio or visual) to an analog toy
 
 # Bibliography
 
